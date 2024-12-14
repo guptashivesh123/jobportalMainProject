@@ -35,4 +35,4 @@ Job Hunt is a full-stack web application designed to revolutionize the job seeki
 * **Other Tools:**
     - Git (for version control)
     - npm/yarn (for package management)
-* **Deployed Link:** [[https://your-deployed-link.com](https://jobportalmainproject.onrender.com)](https://jobportalmainproject.onrender.com)
+* **Deployed Link:** [[Job Hunt]](https://jobportalmainproject.onrender.com)
