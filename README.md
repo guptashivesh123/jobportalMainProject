@@ -36,6 +36,3 @@ Job Hunt is a full-stack web application designed to revolutionize the job seeki
     - Git (for version control)
     - npm/yarn (for package management)
 
-**Getting Started**
-   ```bash
-   git clone [https://github.com/your-username/job-hunt.git](https://github.com/your-username/job-hunt.git)
